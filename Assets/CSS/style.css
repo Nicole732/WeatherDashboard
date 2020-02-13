@@ -1,0 +1,39 @@
+h1 {
+background-color: black;
+text-align: center;
+color: whitesmoke;
+padding: 10px;
+margin-bottom: 0px;
+}
+
+
+
+#searchnav {
+    background-color: grey;
+    height: auto;
+}
+ 
+#citieslisting {
+    height: 100%;
+    padding-top: 20px;
+    height: auto;
+}
+
+.card {
+   margin-top: 10px;
+
+}
+
+#basic-addon2{
+    background-color: rgb(6, 92, 172);
+
+}
+
+#parasearch {
+   color: whitesmoke ;
+   font-size: medium;
+   text-align: center;
+}
+
+/* media queries?? */
+
