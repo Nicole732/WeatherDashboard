@@ -1,22 +1,34 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body { 
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+
 h1 {
 background-color: black;
 text-align: center;
 color: whitesmoke;
 padding: 10px;
 margin-bottom: 0px;
+margin-top: 0px;
 }
-
-
 
 #searchnav {
     background-color: grey;
-    height: auto;
+    margin-top: 0px;
 }
  
 #citieslisting {
     height: 100%;
     padding-top: 20px;
-    height: auto;
 }
 
 .card {
@@ -33,7 +45,8 @@ margin-bottom: 0px;
    color: whitesmoke ;
    font-size: medium;
    text-align: center;
+   margin-bottom: ;
 }
 
-/* media queries?? */
+
 

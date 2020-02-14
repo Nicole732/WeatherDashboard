@@ -22,7 +22,7 @@ $(document).ready(function() {
             var card = $('<div class="card">');
             var cardBody = $('<div class="card-body">');
 
-            $("#citieslisting").prepend(card);  //put as a parent in HTML
+            cityDivGrab.prepend(card);  //put as a parent in HTML
             card.append(cardBody);
 
             var farTemperature = (response.main.temp_min - 273.15) * 1.80 + 32;
@@ -57,7 +57,7 @@ $(document).ready(function() {
         event.preventDefault();
         
         var cityN = $("#cityInput").val().trim(); 
-        // forces a city name to be entered
+        // forces user to enter a city name 
         if (cityN === "") {
             return
         }

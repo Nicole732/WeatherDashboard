@@ -1,4 +1,4 @@
-hh<!doctype html>
+<!doctype html>
 <html lang="en">
   <head>
     <!-- Required meta tags -->
@@ -12,34 +12,29 @@ hh<!doctype html>
   </head>
 
   <body>
+    
     <h1>Weather Dashboard</h1>
+    <div class="container-fluid h-100">
 
-    <div class="container-fluid">
+        <div class="row h-100">
 
-        <div class="row">
-
-            <div class="col-md-3" id="searchnav">
+            <div class="col-md-3 h-100" id="searchnav">
                 <!-- search box -->
                 
                 
                 <div>
-                    <form class="form-inline">
-                        
-                        <!-- <p id="parasearch"> Search For a City:</p> -->
-                        <label for="parasearch">Search For a City:</label>
-                        
+                    <p id="parasearch"> Search For a City:</p>
+                    <form class="form-inline ">
                         <input class="form-control" type="search" placeholder="city name" aria-label="Search" id="cityInput">
-                        <button class="btn btn-primary" type="submit" id="btnclick">Search</button>
+                        <button class="btn  btn-primary" type="submit" id="btnclick"> <i class="fa fa-search"> </i> </button>
                     </form>
+                    <br>
                 </div>
 
-            
-
-                  
             </div>
 
              
-            <div class="col-md-8" id="citieslisting">
+            <div class="col-md-9 h-100" id="citieslisting">
             <!-- To generate this for each city and populate with API content -->
                 <!-- <div class="card">
                     <div class="card-body">
@@ -63,7 +58,8 @@ hh<!doctype html>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
-    <script type="text/javascript" src="./Assets/JS/weatherjs.js"></script>
+    <script src="https://use.fontawesome.com/49b98aaeb5.js"></script>
+    <script src="./Assets/JS/weatherjs.js"></script>
 
 </body>
 </html>
