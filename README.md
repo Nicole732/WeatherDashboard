@@ -7,8 +7,8 @@ This is a weather dashboard application with search functionality to find curren
 
 View of the application steps:
 
-![initialsearchinterface] ./Assets/Images/initialsearchinterface.png
+![initialsearchinterface](./Assets/Images/initialsearchinterface.png)
 
-![searchinterfacewithonecity] ./Assets/Images/onecityweather.png
+![searchinterfacewithonecity](./Assets/Images/onecityweather.png)
 
-![searchinterfacemultiplecities] ./Assets/Images/multiplecitiesweather.png
+![searchinterfacemultiplecities](./Assets/Images/multiplecitiesweather.png)
