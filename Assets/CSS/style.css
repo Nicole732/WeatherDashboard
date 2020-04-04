@@ -5,48 +5,42 @@
 }
 
 html,
-body { 
+body {
   height: 100%;
   margin: 0;
   padding: 0;
 }
 
-
 h1 {
-background-color: black;
-text-align: center;
-color: whitesmoke;
-padding: 10px;
-margin-bottom: 0px;
-margin-top: 0px;
+  background-color: black;
+  text-align: center;
+  color: whitesmoke;
+  padding: 10px;
+  margin-bottom: 0px;
+  margin-top: 0px;
 }
 
 #searchnav {
-    background-color: grey;
-    margin-top: 0px;
+  background-color: grey;
+  margin-top: 0px;
 }
- 
+
 #citieslisting {
-    height: 100%;
-    padding-top: 20px;
+  height: 100%;
+  padding-top: 20px;
 }
 
 .card {
-   margin-top: 10px;
-
+  margin-top: 10px;
 }
 
-#basic-addon2{
-    background-color: rgb(6, 92, 172);
-
+#basic-addon2 {
+  background-color: rgb(6, 92, 172);
 }
 
 #parasearch {
-   color: whitesmoke ;
-   font-size: medium;
-   text-align: center;
-   margin-bottom: ;
+  color: whitesmoke;
+  font-size: medium;
+  text-align: center;
+  margin-bottom: ;
 }
-
-
-
