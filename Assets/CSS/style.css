@@ -12,16 +12,16 @@ body {
 }
 
 h1 {
-  background-color: black;
+  background-color:#011f4b ;
   text-align: center;
-  color: whitesmoke;
+  color: #b3cde0;
   padding: 10px;
   margin-bottom: 0px;
   margin-top: 0px;
 }
 
 #searchnav {
-  background-color: grey;
+  background-color: #6497b1;
   margin-top: 0px;
 }
 
@@ -35,11 +35,11 @@ h1 {
 }
 
 #basic-addon2 {
-  background-color: rgb(6, 92, 172);
+  background-color: #b3cde0;
 }
 
 #parasearch {
-  color: whitesmoke;
+  color : #b3cde0;
   font-size: medium;
   text-align: center;
   margin-bottom: ;
