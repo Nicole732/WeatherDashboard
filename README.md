@@ -7,4 +7,4 @@ This is a weather dashboard application with search functionality to find curren
 
 View of the application output:
 
-<img width="349" alt="Screen Shot 2020-05-21 at 6 53 23 PM" src="https://user-images.githubusercontent.com/58992132/82617985-bd85f680-9b9f-11ea-9be2-8a948d670f01.png">
+<img width="1406" alt="Screen Shot 2020-05-21 at 8 14 16 PM" src="https://user-images.githubusercontent.com/58992132/82618070-02aa2880-9ba0-11ea-82ec-bac0004b310f.png">
