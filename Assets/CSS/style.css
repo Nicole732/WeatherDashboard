@@ -14,7 +14,7 @@ body {
 h1 {
   background-color:#011f4b ;
   text-align: center;
-  color: #b3cde0;
+  color: whitesmoke;
   padding: 10px;
   margin-bottom: 0px;
   margin-top: 0px;
@@ -39,8 +39,9 @@ h1 {
 }
 
 #parasearch {
-  color : #b3cde0;
+  color : whitesmoke;
   font-size: medium;
   text-align: center;
-  margin-bottom: ;
+  margin-bottom: 10 px;
+  margin-top: 20px;
 }
