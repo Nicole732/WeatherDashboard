@@ -5,10 +5,6 @@ This is a weather dashboard application with search functionality to find curren
 
 ![Repository]https://github.com/Dorinetk/WeatherDashboard 
 
-View of the application steps:
+View of the application output:
 
-![initialsearchinterface](./Assets/Images/initialsearchinterface.png)
-
-![searchinterfacewithonecity](./Assets/Images/onecityweather.png)
-
-![searchinterfacemultiplecities](./Assets/Images/multiplecitiesweather.png)
+<img width="349" alt="Screen Shot 2020-05-21 at 6 53 23 PM" src="https://user-images.githubusercontent.com/58992132/82617985-bd85f680-9b9f-11ea-9be2-8a948d670f01.png">
